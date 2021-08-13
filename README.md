@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @brunoangelosilva
-- 👀 I’m interested in Software development and data engineering
-- 🌱 I’m currently learning design pattern, clean code , clean architecture, framework spring, devops, english 
-- 📫 How to reach me www.linkedin.com/in/bruno-angelo
+- 👋 Ola , eu sou @brunoangelosilva
+- 👀 Eu trabalho com desenvolvimento de software e tenho interesse arquitetura de software e engenharia de dados.
+- 🌱 Eu atualmente estou aprendendo design pattern, clean code , clean architecture, framework spring, devops e inglês. 
+- 📫 Mais informações sobre meu perfil profissional:  www.linkedin.com/in/bruno-angelo
 
 <!---
 brunoangelosilva/brunoangelosilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
